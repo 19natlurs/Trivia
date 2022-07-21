@@ -241,6 +241,7 @@ body {
     top: -5%;
     height: 25%;
     transform: rotate(-30deg);
+    display: none;
   }
 
   .front-content {
@@ -263,6 +264,7 @@ body {
     width: 40%;
     height: 30%;
     transform: rotate(-40deg);
+    display: none;
 
   }
 
@@ -270,12 +272,13 @@ body {
     /* border: 1px solid red; */
     width: 70%;
     height: 100vh;
+
   }
 
   .test2 {
     margin-top: 5%;
     /* border: 1px solid red; */
-    height: 11vh;
+    height: 12vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -291,6 +294,7 @@ body {
     width: 20%;
     height: 10%;
     transform: rotate(80deg);
+    display: none;
 
 
   }
@@ -302,6 +306,7 @@ body {
     top: -4%;
     height: 10%;
     transform: rotate(-55deg);
+    display: none;
 
 
   }
